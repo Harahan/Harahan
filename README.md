@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  a Ph.D. student at HKUST and got my B.E. degree from Beihang University.
-- 👀 I’m interested in efficiency and reinforcement learning for large-scale generative models.
+- 👀 My research interest is building efficient and high-performing generative systems. I currently work on RL for efficient image/video generation.
 - 🌱 I’m currently a research intern at Tencent Hunyuan, and previously at ByteDance Seed, Microsoft Research Asia, and SenseTime Research.
 - 📫 If you have any questions, feel free to reach out at yh4717023@gmail.com.
 
