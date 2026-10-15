@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  a Ph.D. student at HKUST and got my B.E. degree from Beihang University.
-- 👀 My research interest focuses on efficiency & RL. I currently work on agentic RL for (M)LLM.
+- 👀 My research interest focuses on efficiency & RL. I currently work on agentic RL for (M)LLMs.
 - 🌱 I’m currently a research intern at Tencent Hunyuan, and previously at ByteDance Seed, Microsoft Research Asia, and SenseTime Research.
 - 📫 If you have any questions, feel free to reach out at yh4717023@gmail.com.
 
